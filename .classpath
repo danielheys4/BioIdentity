@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ZKFingerReader.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java-workspace/Bio Identity/data/PrivateLibrary/json-20190722.jar"/>
+	<classpathentry kind="lib" path="E:/Java-workspace/Bio Identity/data/PrivateLibrary/org.apache.commons.io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java-workspace/Bio Identity/data/PrivateLibrary/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java-workspace/Bio Identity/data/PrivateLibrary/zxing core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Java-workspace/Bio Identity/data/PrivateLibrary/zxing javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/ACMIS SOFTWARE/ACMIS-IDS/processing-4.0b8-windows-x64/processing-4.0b8/core/library/core.jar"/>
+	<classpathentry kind="lib" path="E:/ACMIS SOFTWARE/ACMIS-IDS/Bio Identity/data/PrivateLibrary/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="E:/ACMIS SOFTWARE/ACMIS-IDS/Bio Identity/data/PrivateLibrary/SigPlus2_68.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

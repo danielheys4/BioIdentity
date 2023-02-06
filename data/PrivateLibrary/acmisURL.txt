@@ -1,0 +1,2 @@
+https://staff.staging.acmis.ac.ug/api/v1/users/auth/login
+https://staff.staging.acmis.ac.ug/api/v1/users/auth/profile
